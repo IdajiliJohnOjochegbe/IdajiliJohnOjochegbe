@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dahuuioer/image/upload/v1716985177/github-header-image_2_xgwxgg.png)]()
+[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=NnEyl3%2b%2f&id=C8709655BEC816B44E4F2A02BB70F0BC1ED0CD0C&thid=OIP.NnEyl3-_kqwizqLzZGHwpgAAAA&mediaurl=https%3a%2f%2fsmartclick.ai%2fwp-content%2fuploads%2f2021%2f11%2fML-engineer-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.367132977fbf92ac22cea2f36461f0a6%3frik%3dDM3QHrzwcLsCKg%26pid%3dImgRaw%26r%3d0&exph=474&expw=474&q=machine+learning+engineer+images&simid=608051684986987062&FORM=IRPRST&ck=93BC239DBBD616FC84E95DB278194C5D&selectedIndex=0&itb=0)]()
 <h1 align="center">Hi 👋, I'm Idajili John Ojochegbe</h1>
 <h3 align="center">A passionate Machine learning Engineer.</h3>
 (img align="right" alt="Coding" width="400" src= "https://res.cloudinary.com/dahuuioer/image/upload/v1716985837/GIF_MachineLearning_hxuvk8.gif")
